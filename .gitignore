@@ -1,0 +1,8 @@
+.venv
+.git
+*.log
+/nltk_data
+__pycache__
+*.pyc
+*.pyo
+*.pyd
