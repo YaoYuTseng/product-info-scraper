@@ -12,3 +12,4 @@ This project scrapes product information from the NETGEAR website, focusing on t
 The scraped data will be saved in CSV files. Wordclouds will also be created to better visualize the keyword frequency.
 
 ![A picture showing the wordcloud visualization of common keywords in NETGEAR switch product pages' highlight sections](output/Highlights_Wordcloud.png)
+![A picture showing the wordcloud visualization of common keywords in NETGEAR switch product pages' description sections](output/Descriptions_Wordcloud.png)
